@@ -1,0 +1,17 @@
+D:\C#A-2018\Кубарев Илья\TestForms\TestForms\bin\Debug\TestForms.exe
+D:\C#A-2018\Кубарев Илья\TestForms\TestForms\bin\Debug\TestForms.pdb
+D:\C#A-2018\Кубарев Илья\TestForms\TestForms\obj\Debug\balls.csprojResolveAssemblyReference.cache
+D:\C#A-2018\Кубарев Илья\TestForms\TestForms\obj\Debug\TestForms.Form1.resources
+D:\C#A-2018\Кубарев Илья\TestForms\TestForms\obj\Debug\TestForms.Properties.Resources.resources
+D:\C#A-2018\Кубарев Илья\TestForms\TestForms\obj\Debug\balls.csproj.GenerateResource.Cache
+D:\C#A-2018\Кубарев Илья\TestForms\TestForms\obj\Debug\TestForms.exe
+D:\C#A-2018\Кубарев Илья\TestForms\TestForms\obj\Debug\TestForms.pdb
+G:\Kit\C#Advanced\balls\TestForms\bin\Debug\TestForms.exe
+G:\Kit\C#Advanced\balls\TestForms\bin\Debug\TestForms.pdb
+G:\Kit\C#Advanced\balls\TestForms\obj\Debug\balls.csprojResolveAssemblyReference.cache
+G:\Kit\C#Advanced\balls\TestForms\obj\Debug\TestForms.Form1.resources
+G:\Kit\C#Advanced\balls\TestForms\obj\Debug\TestForms.Properties.Resources.resources
+G:\Kit\C#Advanced\balls\TestForms\obj\Debug\balls.csproj.GenerateResource.Cache
+G:\Kit\C#Advanced\balls\TestForms\obj\Debug\balls.csproj.CoreCompileInputs.cache
+G:\Kit\C#Advanced\balls\TestForms\obj\Debug\TestForms.exe
+G:\Kit\C#Advanced\balls\TestForms\obj\Debug\TestForms.pdb
